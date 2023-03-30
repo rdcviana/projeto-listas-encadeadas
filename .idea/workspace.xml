@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd85a42e-0531-4a97-88d4-73de315e9a87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/one/diodigitalinnovation/ListaEncadeada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/one/diodigitalinnovation/No.java" afterDir="false" />
+    <list default="true" id="fd85a42e-0531-4a97-88d4-73de315e9a87" name="Changes" comment="Commit com a implementação da Classe No e ListaEncadeada">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/diodigitalinnovation/ListaEncadeada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/diodigitalinnovation/ListaEncadeada.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +60,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680197164275</updated>
-      <workItem from="1680197165864" duration="1886000" />
+      <workItem from="1680197165864" duration="3879000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit com a implementação da Classe No e ListaEncadeada">
+      <created>1680199366154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680199366154</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit com a implementação da Classe No e ListaEncadeada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit com a implementação da Classe No e ListaEncadeada" />
   </component>
 </project>
